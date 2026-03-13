@@ -1,0 +1,16 @@
+{
+  "name": "product-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "crawlee": "^3.16.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"id": "M9E8Shkd6dABlXu",
+	"json": "{\"id\":\"M9E8Shkd6dABlXu\",\"url\":\"https://warehouse-theme-metal.myshopify.com/products/samsung-un55nu8000-flat-55a-4k-uhd-8-series-smart-tv\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/products/samsung-un55nu8000-flat-55a-4k-uhd-8-series-smart-tv\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/products/samsung-un55nu8000-flat-55a-4k-uhd-8-series-smart-tv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-03-13T10:41:28.408Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/products/samsung-un55nu8000-flat-55a-4k-uhd-8-series-smart-tv",
+	"url": "https://warehouse-theme-metal.myshopify.com/products/samsung-un55nu8000-flat-55a-4k-uhd-8-series-smart-tv"
+}
