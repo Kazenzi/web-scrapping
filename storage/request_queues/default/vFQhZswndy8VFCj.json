@@ -1,9 +1,0 @@
-{
-	"id": "vFQhZswndy8VFCj",
-	"json": "{\"id\":\"vFQhZswndy8VFCj\",\"url\":\"https://warehouse-theme-metal.myshopify.com/products/samsung-qn75q6-flat-75-qled-4k-uhd-6-series-smart-tv\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/products/samsung-qn75q6-flat-75-qled-4k-uhd-6-series-smart-tv\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/products/samsung-qn75q6-flat-75-qled-4k-uhd-6-series-smart-tv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-03-13T10:41:28.921Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/products/samsung-qn75q6-flat-75-qled-4k-uhd-6-series-smart-tv",
-	"url": "https://warehouse-theme-metal.myshopify.com/products/samsung-qn75q6-flat-75-qled-4k-uhd-6-series-smart-tv"
-}
